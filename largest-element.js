@@ -16,4 +16,4 @@ const oldest = largestElement(ages);
 const oldest2 = largestElement([-12, -6, -17]);
  console.log('oldest2', oldest2);
 
-// Task: find the lowest or smallest element of an array
+// Task 1: find the lowest or smallest element of an array
